@@ -1,3 +1,5 @@
+## Fork to have a proper UWP project for windows 10
+
 # PhoneGap Plugin BarcodeScanner
 ================================
 
